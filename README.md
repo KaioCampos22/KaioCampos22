@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @KaioCampos22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KaioCampos22/KaioCampos22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- OLÁ, BOM DIA (INDEPENDENTE DO HORÁRIO QUE VOCÊ ESTÁ LENDO ISSO)
+- 🐱‍🏍 Meu nome é Kaio sou um grande trouxa
+- 🌱 Estudando FrontEnd 
