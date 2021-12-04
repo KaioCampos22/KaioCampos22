@@ -4,8 +4,8 @@
 
    <div> 
        <a href:"https://github.com/KaioCampos22">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=kaiocampos22&show_icons=true==true&theme=true&theme=dark"/>
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiocampos22&layout=compact&langs_count=16&theme=dark"/>
+        <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=kaiocampos22&show_icons=true==true&theme=true&theme=dark"/>
+        <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiocampos22&layout=compact&langs_count=16&theme=dark"/>
      
    </div>
   
