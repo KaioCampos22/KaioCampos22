@@ -1,6 +1,6 @@
 - OLÁ, BOM DIA (INDEPENDENTE DO HORÁRIO QUE VOCÊ ESTÁ LENDO ISSO)
 - 🐱‍🏍 Sempre tentando evoluir
-- 🌱 Estudando FrontEnd 
+- 🌱 Estudante FrontEnd 
 
    <div> 
        <a href:"https://github.com/KaioCampos22">
