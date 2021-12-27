@@ -1,5 +1,5 @@
 - OLÁ, BOM DIA (INDEPENDENTE DO HORÁRIO QUE VOCÊ ESTÁ LENDO ISSO)
-- 🐱‍🏍 Meu nome é Kaio sou um grande trouxa
+- 🐱‍🏍 Sempre tentando evoluir
 - 🌱 Estudando FrontEnd 
 
    <div> 
