@@ -21,8 +21,7 @@
   <div>
     <a href="https://www.instagram.com/kaioo.z/" target="blank_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank_">
     
-    
-    
-    
   </div>
-    
+    <div>
+       <i class="devicon-linkedin-plain colored"></i>
+            linkedin
