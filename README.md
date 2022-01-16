@@ -1,5 +1,5 @@
 - OLÁ, BOM DIA (INDEPENDENTE DO HORÁRIO QUE VOCÊ ESTÁ LENDO ISSO)
-- 🐱‍🏍 Sempre tentando evoluir
+- 🐱‍🏍 Foguete não tem ré!
 - 🌱 Iniciante FrontEnd 
 
    <div> 
