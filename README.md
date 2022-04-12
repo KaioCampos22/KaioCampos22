@@ -1,5 +1,5 @@
 
-- 🌱 Iniciante FrontEnd 
+- 🌱 Estudante FrontEnd HTML | CSS | JS
 
    <div> 
        <a href:"https://github.com/KaioCampos22">
