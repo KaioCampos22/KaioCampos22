@@ -1,5 +1,5 @@
 
-- 🌱 Estudante FrontEnd HTML | CSS | JS
+- 🌱 Estudante FrontEnd HTML | CSS | JS | React
 
    <div> 
        <a href:"https://github.com/KaioCampos22">
