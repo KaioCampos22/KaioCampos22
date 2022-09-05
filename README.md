@@ -1,5 +1,5 @@
 
-- 🌱 Desenvolvedor Front End FrontEnd
+- 🌱 Desenvolvedor Front End Jr
 - HTML | CSS | JS | ReactJs | NodeJs
 
    <div> 
