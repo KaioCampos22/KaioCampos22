@@ -22,6 +22,10 @@
   
   <div>
     <a href="https://www.instagram.com/kaioo.z/" target="blank_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank_">
+      <a href="https://www.linkedin.com/in/kaio-campos-6a24a618b/" target="blank_">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+           target="blank_">
+    
     
   </div>
  
