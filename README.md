@@ -1,5 +1,5 @@
 
-- 🌱 Estudante FrontEnd HTML | CSS | JS | ReactJs | NodeJs
+- 🌱 Desenvolvedor Front End FrontEnd HTML | CSS | JS | ReactJs | NodeJs
 
    <div> 
        <a href:"https://github.com/KaioCampos22">
